@@ -1,6 +1,7 @@
 # Bigram Pixel Language Model for MNIST
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white)](https://pytorch.org/)
+[![Dataset: MNIST](https://img.shields.io/badge/Dataset-MNIST-blue.svg)](http://yann.lecun.com/exdb/mnist/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A minimal PyTorch implementation of a bigram language model operating at the pixel level, adapted for MNIST handwritten digit generation. Part of foundational AI/ML studies aligned with long-term deep learning mastery goals.
