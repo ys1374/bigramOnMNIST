@@ -17,8 +17,8 @@ A minimal PyTorch implementation of a bigram language model operating at the pix
 ### Problem Transformation
 ```python
 # Convert continuous pixel values [0,1] to 21 discrete classes
-`def quantize_pixels(image):
-    return (image * 20).round().long()`
+def quantize_pixels(image):
+    return (image * 20).round().long()
 
 # Example pixel value mapping:
 # 0.00 → class 0, 0.05 → class 1, ..., 1.00 → class 20
