@@ -11,11 +11,13 @@ A minimal PyTorch implementation of a bigram language model operating at the pix
 
 <table>
   <tr>
-    <td style="text-align: center;">
-      <img  src="./output.png" alt="OUTPUT" width="300"/>
-      <p style="text-align: center;">OUTPUT</p>
+    <td >
+        <div style="display: flex; justify-content: space-between;">
+            <img  src="./output.png" alt="OUTPUT" width="300"/>
+            <p style="text-align: center;">OUTPUT</p>
+        </div>
     </td>
-    <td style="text-align: center;">
+    <td>
       <img src="./input.png" alt="INPUTs" width="300"/>
       <p style="text-align: center;">INPUTs</p>
     </td>
