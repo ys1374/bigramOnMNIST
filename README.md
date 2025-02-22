@@ -12,12 +12,14 @@ A minimal PyTorch implementation of a bigram language model operating at the pix
 <table>
   <tr>
     <td>
-      <img src="./output.png" alt="Image 1" width="300"/>
-      OUTPUT
+        <label> OUTPUT </label>
+        <img src="./output.png" alt="Image 1" width="300"/>
+      
     </td>
     <td>
-      <img src="./input.png" alt="Image 2" width="300"/>
-      INPUT
+        <label> INPUT </label>
+        <img src="./input.png" alt="Image 2" width="300"/>
+        
     </td>
   </tr>
 </table>
