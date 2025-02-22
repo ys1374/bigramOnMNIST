@@ -6,18 +6,18 @@
 
 A minimal PyTorch implementation of a bigram language model operating at the pixel level, adapted for MNIST handwritten digit generation. Part of foundational AI/ML studies aligned with long-term deep learning mastery goals.
 
-## Output/input
+## Output/Input (IO)
 
 
 <table>
   <tr>
-    <td>
-      <img src="./output.png" alt="Image 1" width="300"/>
+    <td style="text-align: center;">
+      <img  src="./output.png" alt="OUTPUT" width="300"/>
       <p style="text-align: center;">OUTPUT</p>
     </td>
-    <td>
-      <img src="./input.png" alt="Image 2" width="300"/>
-      <p style="text-align: center;">INPUT</p>
+    <td style="text-align: center;">
+      <img src="./input.png" alt="INPUTs" width="300"/>
+      <p style="text-align: center;">INPUTs</p>
     </td>
 
   </tr>
