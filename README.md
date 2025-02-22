@@ -8,23 +8,23 @@ A minimal PyTorch implementation of a bigram language model operating at the pix
 
 ## Output/Input (IO)
 
-
 <table>
   <tr>
     <td>
-      <center>
+      <div align="center">
         <img src="./output.png" alt="OUTPUT" width="300"/>
         <p>OUTPUT</p>
-      </center>
+      </div>
     </td>
     <td>
-      <center>
+      <div align="center">
         <img src="./input.png" alt="INPUTs" width="300"/>
         <p>INPUTs</p>
-      </center>
+      </div>
     </td>
   </tr>
 </table>
+
 
 
 ## Key Features
